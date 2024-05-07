@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{63CD8CEF-0A1A-41C8-A7CC-FD5781EDB07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BA4BF6C5-3890-4776-8B51-AC7A2BF0115B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task 2", "Task 2", "{7F464030-ADA5-48C0-A52B-C5A09474CA9A}"
+	ProjectSection(SolutionItems) = preProject
+		request.sql = request.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CD8CEF-0A1A-41C8-A7CC-FD5781EDB07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CD8CEF-0A1A-41C8-A7CC-FD5781EDB07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CD8CEF-0A1A-41C8-A7CC-FD5781EDB07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CD8CEF-0A1A-41C8-A7CC-FD5781EDB07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4BF6C5-3890-4776-8B51-AC7A2BF0115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4BF6C5-3890-4776-8B51-AC7A2BF0115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4BF6C5-3890-4776-8B51-AC7A2BF0115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4BF6C5-3890-4776-8B51-AC7A2BF0115B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
